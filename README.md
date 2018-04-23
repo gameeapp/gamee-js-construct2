@@ -1,4 +1,4 @@
-## Download
+## Download #2.1
 
 [gamee-connector.zip](https://github.com/gameeapp/gamee-js-construct2/raw/master/plugin/gamee-connector.zip)
 
