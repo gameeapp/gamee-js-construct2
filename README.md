@@ -1,6 +1,6 @@
 ## Download #2.1
 
-[gamee-connector.zip](https://github.com/gameeapp/gamee-js-construct2/raw/master/plugin/gamee-connector.zip)
+[gamee-connector.c2addon](https://github.com/gameeapp/gamee-js-construct2/raw/master/plugin/gamee-connector.c2addon)
 
 ## About
 
