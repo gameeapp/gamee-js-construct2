@@ -1,4 +1,4 @@
-## Download #3.0
+## Download #3.0 RC2
 
 [gamee-connector.c2addon](https://github.com/gameeapp/gamee-js-construct2/raw/master/plugin/gamee-connector.c2addon)
 
